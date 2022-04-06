@@ -24,7 +24,7 @@ limitations under the License.
   </parent>
 
   <properties>
-     <hbase.version>${hbase.version.2}</hbase.version>
+     <hbase.version>2.1.6</hbase.version>
   </properties>
 
   <artifactId>bigtable-hbase-2.x</artifactId>
